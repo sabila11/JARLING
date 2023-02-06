@@ -9,7 +9,7 @@
   <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
   <link rel="shortcut icon" href="img/favicon.png">
 
-  <title>Admin - WWS</title>
+  <title>Admin - JARLING</title>
 
   <!-- Bootstrap CSS -->
   <link href="<?php echo base_url();?>assets/admin/css/bootstrap.min.css" rel="stylesheet">
@@ -114,9 +114,8 @@
                       </a>
             <ul class="sub">
               <!-- ambil data user -->
-              <li><a class="" href="<?php echo base_url();?>index.php/GetUser">User Data</a></li>
-              <li><a class="" href="<?php echo base_url();?>index.php/populer/tampil_populer">Populer</a></li>
-              <li><a class="" href="<?php echo base_url();?>index.php/kota/tampil_kota">Jarling</a></li>
+              <li><a class="" href="<?php echo base_url();?>index.php/GetUser">Data User</a></li>
+              <li><a class="" href="<?php echo base_url();?>index.php/populer/tampil_populer">Data Wisata</a></li>
             </ul>
           </li>
         </ul>

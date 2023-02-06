@@ -76,11 +76,6 @@
 					<span>Dashboard</span>
 				</a>
 			</li>
-			<li class="nav-item">
-				<a class="nav-link " href="<?php echo base_url(); ?>index.php/Member/rencana">
-					<i class="fa-solid fa-star"></i>
-					<span>Wisata Populer</span>
-				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link " href="<?php echo base_url(); ?>index.php/Member/rencana">

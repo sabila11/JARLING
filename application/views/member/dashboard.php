@@ -22,7 +22,7 @@
 										<div class="card-body">
 											<h5 class="card-title"><?php echo $row->nama_tempat; ?></h5>
 											<p class="card-text"><?php echo $row->deskripsi; ?></p>
-											<a href="<?php echo base_url() . 'info_kota/info/' . $row->id; ?>" class="card-link">Informasi</a>
+											<a href="<?php echo base_url() . 'index.php/info_kota/info/' . $row->id; ?>" class="card-link">Informasi</a>
 										</div>
 									</div><!-- End Card with an image on top -->
 								</div>
